@@ -1,0 +1,4174 @@
+{
+  "generated_at": "2026-09-01T11:32:46Z",
+  "source": "TheCocktailDB (https://www.thecocktaildb.com/) — voorbeelddataset (letters A-F, M)",
+  "count": 139,
+  "cocktails": [
+    {
+      "id": "17833",
+      "name": "A. J.",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Shake ingredients with ice, strain into a cocktail glass, and serve.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/l74qo91582480316.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Applejack",
+          "measure": "1 1/2 oz"
+        },
+        {
+          "name": "Grapefruit juice",
+          "measure": "1 oz"
+        }
+      ]
+    },
+    {
+      "id": "17222",
+      "name": "A1",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Pour all ingredients into a cocktail shaker, mix and serve over ice into a chilled glass.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/2x8thr1504816928.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Gin",
+          "measure": "1 3/4 shot"
+        },
+        {
+          "name": "Grand Marnier",
+          "measure": "1 Shot"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "1/4 Shot"
+        },
+        {
+          "name": "Grenadine",
+          "measure": "1/8 Shot"
+        }
+      ]
+    },
+    {
+      "id": "13501",
+      "name": "ABC",
+      "category": "Shot",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Shot glass",
+      "instructions": "Layered in a shot glass.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/tqpvqp1472668328.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Amaretto",
+          "measure": "1/3"
+        },
+        {
+          "name": "Baileys irish cream",
+          "measure": "1/3"
+        },
+        {
+          "name": "Cognac",
+          "measure": "1/3"
+        }
+      ]
+    },
+    {
+      "id": "17835",
+      "name": "Abilene",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Highball glass",
+      "instructions": "Pour all of the ingredients into a highball glass almost filled with ice cube",
+      "image": "https://www.thecocktaildb.com/images/media/drink/smb2oe1582479072.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Dark rum",
+          "measure": "1 1/2 oz"
+        },
+        {
+          "name": "Peach nectar",
+          "measure": "2 oz"
+        },
+        {
+          "name": "Orange juice",
+          "measure": "3 oz"
+        }
+      ]
+    },
+    {
+      "id": "17836",
+      "name": "Acapulco",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Old-fashioned glass",
+      "instructions": "Combine and shake all ingredients (except mint) with ice and strain into an old",
+      "image": "https://www.thecocktaildb.com/images/media/drink/il9e0r1582478841.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Light rum",
+          "measure": "1 1/2 oz"
+        },
+        {
+          "name": "Triple sec",
+          "measure": "1 1/2 tsp"
+        },
+        {
+          "name": "Lime juice",
+          "measure": "1 tblsp"
+        },
+        {
+          "name": "Sugar",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Egg white",
+          "measure": "1"
+        },
+        {
+          "name": "Mint",
+          "measure": "1"
+        }
+      ]
+    },
+    {
+      "id": "17225",
+      "name": "Ace",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Martini Glass",
+      "instructions": "Shake all the ingredients in a cocktail shaker and ice then strain in a cold glass.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/l3cd7f1504818306.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Gin",
+          "measure": "2 shots"
+        },
+        {
+          "name": "Grenadine",
+          "measure": "1/2 shot"
+        },
+        {
+          "name": "Heavy cream",
+          "measure": "1/2 shot"
+        },
+        {
+          "name": "Milk",
+          "measure": "1/2 shot"
+        },
+        {
+          "name": "Egg white",
+          "measure": "1/2 Fresh"
+        }
+      ]
+    },
+    {
+      "id": "14610",
+      "name": "ACID",
+      "category": "Shot",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Shot glass",
+      "instructions": "Poor in the 151 first followed by the 101 served with a Coke or Dr Pepper c",
+      "image": "https://www.thecocktaildb.com/images/media/drink/xuxpxt1479209317.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "151 proof rum",
+          "measure": "1 oz Bacardi"
+        },
+        {
+          "name": "Wild Turkey",
+          "measure": "1 oz"
+        }
+      ]
+    },
+    {
+      "id": "17837",
+      "name": "Adam",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake w",
+      "image": "https://www.thecocktaildb.com/images/media/drink/v0at4i1582478473.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Dark rum",
+          "measure": "2 oz"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Grenadine",
+          "measure": "1 tsp"
+        }
+      ]
+    },
+    {
+      "id": "17227",
+      "name": "Addington",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Mix both the vermouth's in a shaker and strain into a cold glass. Top up with ",
+      "image": "https://www.thecocktaildb.com/images/media/drink/ib0b7g1504818925.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Sweet Vermouth",
+          "measure": "2 shots"
+        },
+        {
+          "name": "Dry Vermouth",
+          "measure": "1 shot"
+        },
+        {
+          "name": "Soda water",
+          "measure": "Top up with"
+        }
+      ]
+    },
+    {
+      "id": "17228",
+      "name": "Addison",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Martini Glass",
+      "instructions": "Shake together all the ingredients and strain into a cold glass.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/yzva7x1504820300.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Gin",
+          "measure": "1 1/2 shot"
+        },
+        {
+          "name": "Vermouth",
+          "measure": "1 1/2 shot"
+        }
+      ]
+    },
+    {
+      "id": "17839",
+      "name": "Affair",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Highball glass",
+      "instructions": "Pour schnapps, orange juice, and cranberry juice over ice in a highball glass.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/h5za6y1582477994.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Strawberry schnapps",
+          "measure": "2 oz"
+        },
+        {
+          "name": "Orange juice",
+          "measure": "2 oz"
+        },
+        {
+          "name": "Cranberry juice",
+          "measure": "2 oz"
+        },
+        {
+          "name": "Club soda",
+          "measure": ""
+        }
+      ]
+    },
+    {
+      "id": "17840",
+      "name": "Affinity",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "In a mixing glass half-filled with ice cubes, combine all of the ingredients. S",
+      "image": "https://www.thecocktaildb.com/images/media/drink/wzdtnn1582477684.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Scotch",
+          "measure": "1 1/2 oz"
+        },
+        {
+          "name": "Sweet Vermouth",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Dry Vermouth",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Orange bitters",
+          "measure": "2 dashes"
+        }
+      ]
+    },
+    {
+      "id": "12560",
+      "name": "Afterglow",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Non alcoholic",
+      "glass": "Highball Glass",
+      "instructions": "Mix. Serve over ice.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/vuquyv1468876052.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Grenadine",
+          "measure": "1 part"
+        },
+        {
+          "name": "Orange juice",
+          "measure": "4 parts"
+        },
+        {
+          "name": "Pineapple juice",
+          "measure": "4 parts"
+        }
+      ]
+    },
+    {
+      "id": "11014",
+      "name": "Alexander",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Shake all ingredients with ice and strain contents into a cocktail glass. Spri",
+      "image": "https://www.thecocktaildb.com/images/media/drink/0clus51606772388.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Gin",
+          "measure": "1/2 oz"
+        },
+        {
+          "name": "Creme de Cacao",
+          "measure": "1/2 oz white"
+        },
+        {
+          "name": "Light cream",
+          "measure": "2 oz"
+        },
+        {
+          "name": "Nutmeg",
+          "measure": ""
+        }
+      ]
+    },
+    {
+      "id": "11020",
+      "name": "Algonquin",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Combine and shake all ingredients with ice, strain contents into a cocktail gla",
+      "image": "https://www.thecocktaildb.com/images/media/drink/uwryxx1483387873.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Blended whiskey",
+          "measure": "1 1/2 oz"
+        },
+        {
+          "name": "Dry Vermouth",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Pineapple juice",
+          "measure": "1 oz"
+        }
+      ]
+    },
+    {
+      "id": "11021",
+      "name": "Allegheny",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Shake all ingredients (except lemon peel) with ice and strain into a cocktail ",
+      "image": "https://www.thecocktaildb.com/images/media/drink/uwvyts1483387934.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Dry Vermouth",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Bourbon",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Blackberry brandy",
+          "measure": "1 1/2 tsp"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "1 1/2 tsp"
+        },
+        {
+          "name": "Lemon peel",
+          "measure": "1 twist of"
+        }
+      ]
+    },
+    {
+      "id": "11023",
+      "name": "Almeria",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake w",
+      "image": "https://www.thecocktaildb.com/images/media/drink/rwsyyu1483388181.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Dark rum",
+          "measure": "2 oz"
+        },
+        {
+          "name": "Kahlua",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Egg white",
+          "measure": "1"
+        }
+      ]
+    },
+    {
+      "id": "15941",
+      "name": "Americano",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Collins glass",
+      "instructions": "Pour the Campari and vermouth over ice into glass, add a splash of soda water",
+      "image": "https://www.thecocktaildb.com/images/media/drink/709s6m1613655124.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Campari",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Sweet Vermouth",
+          "measure": "1 oz red"
+        },
+        {
+          "name": "Lemon peel",
+          "measure": "Twist of"
+        },
+        {
+          "name": "Orange peel",
+          "measure": "Twist of"
+        }
+      ]
+    },
+    {
+      "id": "15106",
+      "name": "Apello",
+      "category": "Other / Unknown",
+      "iba": null,
+      "alcoholic": "Non alcoholic",
+      "glass": "Collins Glass",
+      "instructions": "Stirr. Grnish with maraschino cherry.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/uptxtv1468876415.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Orange juice",
+          "measure": "4 cl"
+        },
+        {
+          "name": "Grapefruit juice",
+          "measure": "3 cl"
+        },
+        {
+          "name": "Apple juice",
+          "measure": "1 cl"
+        },
+        {
+          "name": "Maraschino cherry",
+          "measure": "1"
+        }
+      ]
+    },
+    {
+      "id": "11046",
+      "name": "Applecar",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/sbffau1504389764.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Applejack",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Triple sec",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "1 oz"
+        }
+      ]
+    },
+    {
+      "id": "11055",
+      "name": "Artillery",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Stir all ingredients with ice, strain into a cocktail glass, and serve.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/g1vnbe1493067747.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Sweet Vermouth",
+          "measure": "1 1/2 tsp"
+        },
+        {
+          "name": "Gin",
+          "measure": "1 1/2 oz"
+        },
+        {
+          "name": "Bitters",
+          "measure": "2 dashes"
+        }
+      ]
+    },
+    {
+      "id": "13938",
+      "name": "AT&T",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Highball Glass",
+      "instructions": "Pour Vodka and Gin over ice, add Tonic and Stir",
+      "image": "https://www.thecocktaildb.com/images/media/drink/rhhwmp1493067619.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Absolut Vodka",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Gin",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Tonic water",
+          "measure": "4 oz"
+        }
+      ]
+    },
+    {
+      "id": "16419",
+      "name": "Avalanche",
+      "category": "Shake",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Highball glass",
+      "instructions": "Mix in highball glass over ice, shake well.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/uppqty1472720165.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Crown Royal",
+          "measure": "1 shot"
+        },
+        {
+          "name": "Kahlua",
+          "measure": "1 shot"
+        },
+        {
+          "name": "Cream",
+          "measure": "Fill with"
+        }
+      ]
+    },
+    {
+      "id": "15266",
+      "name": "Avalon",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Highball glass",
+      "instructions": "Fill a tall glass with ice. Layer the Finlandia Vodka, lemon and apple juices",
+      "image": "https://www.thecocktaildb.com/images/media/drink/3k9qic1493068931.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Vodka",
+          "measure": "3 parts"
+        },
+        {
+          "name": "Pisang Ambon",
+          "measure": "1 part"
+        },
+        {
+          "name": "Apple juice",
+          "measure": "6 parts"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "1 1/2 part"
+        },
+        {
+          "name": "Lemonade",
+          "measure": ""
+        }
+      ]
+    },
+    {
+      "id": "17180",
+      "name": "Aviation",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Add all ingredients into cocktail shaker filled with ice. Shake well and strai",
+      "image": "https://www.thecocktaildb.com/images/media/drink/trbplb1606855233.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Gin",
+          "measure": "4.5 cl"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "1.5 cl"
+        },
+        {
+          "name": "Maraschino liqueur",
+          "measure": "1.5 cl"
+        }
+      ]
+    },
+    {
+      "id": "15853",
+      "name": "B-52",
+      "category": "Shot",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Shot glass",
+      "instructions": "Layer ingredients into a shot glass. Serve with a stirrer.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/5a3vg61504372070.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Baileys irish cream",
+          "measure": "1/3"
+        },
+        {
+          "name": "Grand Marnier",
+          "measure": "1/3"
+        },
+        {
+          "name": "Kahlua",
+          "measure": "1/4"
+        }
+      ]
+    },
+    {
+      "id": "13332",
+      "name": "B-53",
+      "category": "Shot",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Collins Glass",
+      "instructions": "Layer the Kahlua, Sambucca and Grand Marnier into a shot glas in that order. Better than B-52",
+      "image": "https://www.thecocktaildb.com/images/media/drink/rwqxrv1461866023.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Kahlua",
+          "measure": "1/3 shot"
+        },
+        {
+          "name": "Sambuca",
+          "measure": "1/3 shot"
+        },
+        {
+          "name": "Grand Marnier",
+          "measure": "1/3 shot"
+        }
+      ]
+    },
+    {
+      "id": "15511",
+      "name": "Baby Eskimo",
+      "category": "Shake",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Collins Glass",
+      "instructions": "Leave ice-cream out for about 10 minutes. Add ingredients in order, stir with chopstick (butter knife or",
+      "image": "https://www.thecocktaildb.com/images/media/drink/wywrtw1472720227.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Kahlua",
+          "measure": "2 oz"
+        },
+        {
+          "name": "Milk",
+          "measure": "8 oz"
+        },
+        {
+          "name": "Vanilla ice-cream",
+          "measure": "2 scoops"
+        }
+      ]
+    },
+    {
+      "id": "17267",
+      "name": "Bahama Mama",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Highball glass",
+      "instructions": "Add 2 parts club soda or more or less to taste. Mix it all together and pour over a bunch of ice.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/tyb4a41515793339.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Rum",
+          "measure": "3 parts"
+        },
+        {
+          "name": "Dark rum",
+          "measure": "1 part"
+        },
+        {
+          "name": "Banana liqueur",
+          "measure": "1 part"
+        },
+        {
+          "name": "Grenadine",
+          "measure": "1 part"
+        },
+        {
+          "name": "Pineapple juice",
+          "measure": "2 parts"
+        },
+        {
+          "name": "Orange juice",
+          "measure": "2 parts"
+        },
+        {
+          "name": "Sweet and sour",
+          "measure": "1 part"
+        }
+      ]
+    },
+    {
+      "id": "11060",
+      "name": "Balmoral",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a",
+      "image": "https://www.thecocktaildb.com/images/media/drink/vysuyq1441206297.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Scotch",
+          "measure": "1 1/2 oz"
+        },
+        {
+          "name": "Sweet Vermouth",
+          "measure": "1/2 oz"
+        },
+        {
+          "name": "Dry Vermouth",
+          "measure": "1/2 oz"
+        },
+        {
+          "name": "Bitters",
+          "measure": "2 dashes"
+        }
+      ]
+    },
+    {
+      "id": "17209",
+      "name": "Barracuda",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Margarita glass",
+      "instructions": "Shake pour ingredients with ice. Strain into glass, top with Sparkling wine.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/jwmr1x1504372337.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Rum",
+          "measure": "4.5 cl"
+        },
+        {
+          "name": "Galliano",
+          "measure": "1.5 cl"
+        },
+        {
+          "name": "Pineapple juice",
+          "measure": "6 cl"
+        },
+        {
+          "name": "Lime juice",
+          "measure": "1 dash"
+        },
+        {
+          "name": "Prosecco",
+          "measure": "top up"
+        }
+      ]
+    },
+    {
+      "id": "17195",
+      "name": "Bellini",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Champagne Flute",
+      "instructions": "Pour peach purée into chilled flute, add sparkling wine. Stir gently.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/eaag491504367543.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Champagne",
+          "measure": "6 oz"
+        },
+        {
+          "name": "Peach schnapps",
+          "measure": "1 oz"
+        }
+      ]
+    },
+    {
+      "id": "16986",
+      "name": "Bible Belt",
+      "category": "Other / Unknown",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Highball glass",
+      "instructions": "Mix all ingredients, and pour over ice.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/6bec6v1503563675.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Southern Comfort",
+          "measure": "2 oz"
+        },
+        {
+          "name": "Triple sec",
+          "measure": "1/2 oz"
+        },
+        {
+          "name": "Lime",
+          "measure": "2 wedges"
+        },
+        {
+          "name": "Sour mix",
+          "measure": "2 oz"
+        }
+      ]
+    },
+    {
+      "id": "13222",
+      "name": "Big Red",
+      "category": "Shot",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Shot glass",
+      "instructions": "Pour ingredients into 1 ounce shot glass",
+      "image": "https://www.thecocktaildb.com/images/media/drink/yqwuwu1441248116.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Irish cream",
+          "measure": "1/2 oz"
+        },
+        {
+          "name": "Goldschlager",
+          "measure": "1/2 oz"
+        }
+      ]
+    },
+    {
+      "id": "17254",
+      "name": "Bijou",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Stir in mixing glass with ice and strain",
+      "image": "https://www.thecocktaildb.com/images/media/drink/rysb3r1513706985.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Orange bitters",
+          "measure": "1 dash"
+        },
+        {
+          "name": "Green Chartreuse",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Gin",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Sweet Vermouth",
+          "measure": "1 oz"
+        }
+      ]
+    },
+    {
+      "id": "11106",
+      "name": "Blackthorn",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Stir sloe gin and vermouth with ice and strain into a cocktail glass. Add the twist of lemon peel and",
+      "image": "https://www.thecocktaildb.com/images/media/drink/dgj92f1616098672.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Sweet Vermouth",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Sloe gin",
+          "measure": "1 1/2 oz"
+        },
+        {
+          "name": "Lemon peel",
+          "measure": "1 twist of"
+        }
+      ]
+    },
+    {
+      "id": "11120",
+      "name": "Bluebird",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "In a mixing glass half-filled with crushed ice, combine the gin, triple sec, Curacao, and bitters. Stir ",
+      "image": "https://www.thecocktaildb.com/images/media/drink/5jhyd01582579843.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Gin",
+          "measure": "1 1/2 oz"
+        },
+        {
+          "name": "Triple sec",
+          "measure": "1/2 oz"
+        },
+        {
+          "name": "Blue Curacao",
+          "measure": "1/2 oz"
+        },
+        {
+          "name": "Bitters",
+          "measure": "2 dashes"
+        },
+        {
+          "name": "Maraschino cherry",
+          "measure": "1"
+        },
+        {
+          "name": "Lemon peel",
+          "measure": "1 twist of"
+        }
+      ]
+    },
+    {
+      "id": "13395",
+      "name": "Bob Marley",
+      "category": "Shot",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Shot glass",
+      "instructions": "Layer in a 2 oz shot glass or pony glass",
+      "image": "https://www.thecocktaildb.com/images/media/drink/rrqrst1477140664.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Midori melon liqueur",
+          "measure": "1/2 oz"
+        },
+        {
+          "name": "Jägermeister",
+          "measure": "1/2 oz"
+        },
+        {
+          "name": "Goldschlager",
+          "measure": "1/2 oz"
+        }
+      ]
+    },
+    {
+      "id": "11124",
+      "name": "Boomerang",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "In a mixing glass half-filled with ice cubes, combine the gin, vermouth, bitters, and maraschino liqueur",
+      "image": "https://www.thecocktaildb.com/images/media/drink/3m6yz81504389551.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Gin",
+          "measure": "2 oz"
+        },
+        {
+          "name": "Dry Vermouth",
+          "measure": "1/2 oz"
+        },
+        {
+          "name": "Bitters",
+          "measure": "2 dashes"
+        },
+        {
+          "name": "Maraschino liqueur",
+          "measure": "1/2 tsp"
+        },
+        {
+          "name": "Maraschino cherry",
+          "measure": "1"
+        }
+      ]
+    },
+    {
+      "id": "12572",
+      "name": "Bora Bora",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Non alcoholic",
+      "glass": "Highball glass",
+      "instructions": "Prepare in a blender or shaker, serve in a highball glass on the rocks. Garnish with 1 slice of pine",
+      "image": "https://www.thecocktaildb.com/images/media/drink/xwuqvw1473201811.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Pineapple juice",
+          "measure": "10 cl"
+        },
+        {
+          "name": "Passion fruit juice",
+          "measure": "6 cl"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "1 cl"
+        },
+        {
+          "name": "Grenadine",
+          "measure": "1 cl"
+        }
+      ]
+    },
+    {
+      "id": "11129",
+      "name": "Boston Sour",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Whiskey sour glass",
+      "instructions": "Shake juice of lemon, powdered sugar, blended whiskey, and egg white with cracked ice and strain into",
+      "image": "https://www.thecocktaildb.com/images/media/drink/kxlgbi1504366100.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Blended whiskey",
+          "measure": "2 oz"
+        },
+        {
+          "name": "Lemon",
+          "measure": "Juice of 1/2"
+        },
+        {
+          "name": "Powdered sugar",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Egg white",
+          "measure": "1"
+        },
+        {
+          "name": "Lemon",
+          "measure": "1 slice"
+        },
+        {
+          "name": "Cherry",
+          "measure": "1"
+        }
+      ]
+    },
+    {
+      "id": "11149",
+      "name": "Boxcar",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Whiskey sour glass",
+      "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a sour glass.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/pwgtpa1504366376.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Gin",
+          "measure": "1 1/2 oz"
+        },
+        {
+          "name": "Triple sec",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Grenadine",
+          "measure": "1/2 tsp"
+        },
+        {
+          "name": "Egg white",
+          "measure": "1"
+        }
+      ]
+    },
+    {
+      "id": "17120",
+      "name": "Brain Fart",
+      "category": "Punch / Party Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Punch bowl",
+      "instructions": "Mix all ingredients together. Slowly and gently. Works best if ice is added to punch bowl and soda",
+      "image": "https://www.thecocktaildb.com/images/media/drink/rz5aun1504389701.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Everclear",
+          "measure": "1 fifth"
+        },
+        {
+          "name": "Vodka",
+          "measure": "1 fifth Smirnoff red label"
+        },
+        {
+          "name": "Mountain Dew",
+          "measure": "2 L"
+        },
+        {
+          "name": "Surge",
+          "measure": "2 L"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "1 small bottle"
+        },
+        {
+          "name": "Rum",
+          "measure": "1 pint"
+        }
+      ]
+    },
+    {
+      "id": "17210",
+      "name": "Bramble",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Old-Fashioned glass",
+      "instructions": "Fill glass with crushed ice. Build gin, lemon juice and simple syrup over. Stir, and then pour black",
+      "image": "https://www.thecocktaildb.com/images/media/drink/twtbh51630406392.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Gin",
+          "measure": "4 cl"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "1.5 cl"
+        },
+        {
+          "name": "Sugar syrup",
+          "measure": "1 cl"
+        },
+        {
+          "name": "Creme de Mure",
+          "measure": "1.5 cl"
+        }
+      ]
+    },
+    {
+      "id": "17825",
+      "name": "Brigadier",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Coupe Glass",
+      "instructions": "Mix ingredients in a warmed mug and stir.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/nl89tf1518947401.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Hot Chocolate",
+          "measure": "4 oz"
+        },
+        {
+          "name": "Green Chartreuse",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Cherry Heering",
+          "measure": "1 oz"
+        }
+      ]
+    },
+    {
+      "id": "178311",
+      "name": "Broadside",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Highball glass",
+      "instructions": "Half fill the glass with ice cubes. Crush the wormwood and add to ice. Pour rum, scotch and butters",
+      "image": "https://www.thecocktaildb.com/images/media/drink/l2o6xu1582476870.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "151 proof rum",
+          "measure": "1 shot"
+        },
+        {
+          "name": "Scotch",
+          "measure": "1/2 shot"
+        },
+        {
+          "name": "Bitters",
+          "measure": "3 drops"
+        },
+        {
+          "name": "Wormwood",
+          "measure": "1 Fresh"
+        },
+        {
+          "name": "Ice",
+          "measure": "cubes"
+        }
+      ]
+    },
+    {
+      "id": "178310",
+      "name": "Brooklyn",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Combine ingredients with ice and stir until well-chilled. Strain into a chilled cocktail glass.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/ojsezf1582477277.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Rye Whiskey",
+          "measure": "2 oz"
+        },
+        {
+          "name": "Dry Vermouth",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Maraschino liqueur",
+          "measure": "1/4 oz"
+        },
+        {
+          "name": "Angostura Bitters",
+          "measure": "3 dashes"
+        },
+        {
+          "name": "Maraschino cherry",
+          "measure": "1"
+        }
+      ]
+    },
+    {
+      "id": "14730",
+      "name": "Bubble Gum",
+      "category": "Shot",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Shot glass",
+      "instructions": "Layer in order into a shot glass.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/spuurv1468878783.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Vodka",
+          "measure": "1/4"
+        },
+        {
+          "name": "Banana liqueur",
+          "measure": "1/4"
+        },
+        {
+          "name": "Orange juice",
+          "measure": "1/4"
+        },
+        {
+          "name": "Peach schnapps",
+          "measure": "1/4"
+        }
+      ]
+    },
+    {
+      "id": "17035",
+      "name": "Buccaneer",
+      "category": "Beer",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Beer pilsner",
+      "instructions": "Pour the corona into an 18oz beer glass pour the bacardi limon into the beer stir very gently",
+      "image": "https://www.thecocktaildb.com/images/media/drink/upvtyt1441249023.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Corona",
+          "measure": "1"
+        },
+        {
+          "name": "Bacardi Limon",
+          "measure": "1 shot"
+        }
+      ]
+    },
+    {
+      "id": "14538",
+      "name": "Bumble Bee",
+      "category": "Shot",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Shot glass",
+      "instructions": "This is a layered shot. First pour the Bailey's into the shot glass. Then take an upside down spoon ",
+      "image": "https://www.thecocktaildb.com/images/media/drink/uwqpvv1461866378.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Baileys irish cream",
+          "measure": "1/3 oz"
+        },
+        {
+          "name": "Kahlua",
+          "measure": "1/3 oz"
+        },
+        {
+          "name": "Sambuca",
+          "measure": "1/3 oz"
+        }
+      ]
+    },
+    {
+      "id": "14181",
+      "name": "Cafe Savoy",
+      "category": "Coffee / Tea",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Coffee mug",
+      "instructions": "Fill mug almost to top with coffee.Add milk, triple sec and brandy. Stir.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/vqwptt1441247711.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Coffee",
+          "measure": ""
+        },
+        {
+          "name": "Milk",
+          "measure": "1/2 oz"
+        },
+        {
+          "name": "Triple sec",
+          "measure": "1/2 oz"
+        },
+        {
+          "name": "Brandy",
+          "measure": ""
+        }
+      ]
+    },
+    {
+      "id": "11202",
+      "name": "Caipirinha",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Old-fashioned glass",
+      "instructions": "Place lime and sugar into old fashioned glass and muddle (mash the two ingredi...",
+      "image": "https://www.thecocktaildb.com/images/media/drink/jgvn7p1582484435.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Sugar",
+          "measure": "2 tsp"
+        },
+        {
+          "name": "Lime",
+          "measure": "1"
+        },
+        {
+          "name": "Cachaca",
+          "measure": "2 1/2 oz"
+        }
+      ]
+    },
+    {
+      "id": "13206",
+      "name": "Caipirissima",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Collins Glass",
+      "instructions": "Same as Caipirinha but instead of cachaca you add white rum.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/yd47111503565515.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Lime",
+          "measure": "2"
+        },
+        {
+          "name": "Sugar",
+          "measure": "2 tblsp"
+        },
+        {
+          "name": "White rum",
+          "measure": "2-3 oz"
+        },
+        {
+          "name": "Ice",
+          "measure": "crushed"
+        }
+      ]
+    },
+    {
+      "id": "16047",
+      "name": "Campari Beer",
+      "category": "Beer",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Beer mug",
+      "instructions": "Use a 15 oz glass. Add Campari first. Fill with beer.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/xsqrup1441249130.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Lager",
+          "measure": "1 bottle"
+        },
+        {
+          "name": "Campari",
+          "measure": "1 1/2 cl"
+        }
+      ]
+    },
+    {
+      "id": "11222",
+      "name": "Casa Blanca",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/usspxq1441553762.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Light rum",
+          "measure": "2 oz"
+        },
+        {
+          "name": "Triple sec",
+          "measure": "1 1/2 tsp"
+        },
+        {
+          "name": "Lime juice",
+          "measure": "1 1/2 tsp"
+        },
+        {
+          "name": "Maraschino liqueur",
+          "measure": "1 1/2 tsp"
+        }
+      ]
+    },
+    {
+      "id": "17185",
+      "name": "Casino",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Pour all ingredients into shaker with ice cubes. Shake well. Strain into chilled...",
+      "image": "https://www.thecocktaildb.com/images/media/drink/1mvjxg1504348579.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Gin",
+          "measure": "2 oz"
+        },
+        {
+          "name": "Maraschino liqueur",
+          "measure": "1/4 tsp"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "1/4 tsp"
+        },
+        {
+          "name": "Orange bitters",
+          "measure": "2 dashes"
+        },
+        {
+          "name": "Cherry",
+          "measure": "1"
+        }
+      ]
+    },
+    {
+      "id": "11224",
+      "name": "Casino Royale",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Whiskey sour glass",
+      "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake ...",
+      "image": "https://www.thecocktaildb.com/images/media/drink/3qpv121504366699.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Gin",
+          "measure": "2 oz"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "1/2 oz"
+        },
+        {
+          "name": "Maraschino liqueur",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Orange bitters",
+          "measure": "1 dash"
+        },
+        {
+          "name": "Egg yolk",
+          "measure": "1"
+        }
+      ]
+    },
+    {
+      "id": "11239",
+      "name": "Cherry Rum",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/twsuvr1441554424.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Light rum",
+          "measure": "1 1/4 oz"
+        },
+        {
+          "name": "Cherry brandy",
+          "measure": "1 1/2 tsp"
+        },
+        {
+          "name": "Light cream",
+          "measure": "1 tblsp"
+        }
+      ]
+    },
+    {
+      "id": "11242",
+      "name": "Chicago Fizz",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Highball glass",
+      "instructions": "Shake all ingredients (except carbonated water) with ice and strain into a hi...",
+      "image": "https://www.thecocktaildb.com/images/media/drink/qwvwqr1441207763.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Light rum",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Port",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Lemon",
+          "measure": "Juice of 1/2"
+        },
+        {
+          "name": "Powdered sugar",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Egg white",
+          "measure": "1"
+        },
+        {
+          "name": "Carbonated water",
+          "measure": ""
+        }
+      ]
+    },
+    {
+      "id": "12734",
+      "name": "Chocolate Drink",
+      "category": "Cocoa",
+      "iba": null,
+      "alcoholic": "Non alcoholic",
+      "glass": "Coffee mug",
+      "instructions": "Melt the bar in a small amount of boiling water. Add milk. Cook over low heat...",
+      "image": "https://www.thecocktaildb.com/images/media/drink/q7w4xu1487603180.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chocolate",
+          "measure": "125 gr"
+        },
+        {
+          "name": "Milk",
+          "measure": "3/4 L"
+        },
+        {
+          "name": "Water",
+          "measure": ""
+        }
+      ]
+    },
+    {
+      "id": "13328",
+      "name": "Chocolate Milk",
+      "category": "Shot",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Shot Glass",
+      "instructions": "Put the milk in the bottom, pour the Liquer on top and add the dash of amaret...",
+      "image": "https://www.thecocktaildb.com/images/media/drink/j6q35t1504889399.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chocolate liqueur",
+          "measure": "1/2 shot"
+        },
+        {
+          "name": "Milk",
+          "measure": "1/2 shot"
+        },
+        {
+          "name": "Amaretto",
+          "measure": "1 dash"
+        }
+      ]
+    },
+    {
+      "id": "17135",
+      "name": "Citrus Coke",
+      "category": "Soft Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Highball Glass",
+      "instructions": "Pour half of coke in a glass. Then add Bacardi and top it off with the remain...",
+      "image": "https://www.thecocktaildb.com/images/media/drink/uyrvut1479473214.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Bacardi Limon",
+          "measure": "1 part"
+        },
+        {
+          "name": "Coca-Cola",
+          "measure": "2 parts"
+        }
+      ]
+    },
+    {
+      "id": "11251",
+      "name": "City Slicker",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "In a shaker half-filled with ice cubes, combine all of the ingredients. Shake ...",
+      "image": "https://www.thecocktaildb.com/images/media/drink/dazdlg1504366949.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Brandy",
+          "measure": "2 oz"
+        },
+        {
+          "name": "Triple sec",
+          "measure": "1/2 oz"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "1 tblsp"
+        }
+      ]
+    },
+    {
+      "id": "11255",
+      "name": "Clove Cocktail",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Stir all ingredients with ice, strain into a cocktail glass, and serve.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/qxvtst1461867579.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Sweet Vermouth",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Sloe gin",
+          "measure": "1/2 oz"
+        },
+        {
+          "name": "Wine",
+          "measure": "1/2 oz Muscatel"
+        }
+      ]
+    },
+    {
+      "id": "17186",
+      "name": "Clover Club",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Dry shake ingredients to emulsify, add ice, shake and served straight up.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/t0aja61504348715.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Gin",
+          "measure": "1 1/2 oz"
+        },
+        {
+          "name": "Grenadine",
+          "measure": "2 tsp"
+        },
+        {
+          "name": "Lemon",
+          "measure": "Juice of 1/2"
+        },
+        {
+          "name": "Egg white",
+          "measure": "1"
+        }
+      ]
+    },
+    {
+      "id": "12798",
+      "name": "Coffee Liqueur",
+      "category": "Homemade Liqueur",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Collins Glass",
+      "instructions": "Combine coffee, sugar and water. Simmer 1 hour and let cool. Add vanilla and ...",
+      "image": "https://www.thecocktaildb.com/images/media/drink/ryvtsu1441253851.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Coffee",
+          "measure": "10 tblsp instant"
+        },
+        {
+          "name": "Vanilla extract",
+          "measure": "4 tblsp"
+        },
+        {
+          "name": "Sugar",
+          "measure": "2 1/2 cups"
+        },
+        {
+          "name": "Vodka",
+          "measure": "1 qt"
+        },
+        {
+          "name": "Water",
+          "measure": "2 1/2 cups"
+        }
+      ]
+    },
+    {
+      "id": "12800",
+      "name": "Coffee-Vodka",
+      "category": "Homemade Liqueur",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Collins Glass",
+      "instructions": "Boil water and sugar until dissolved. Turn off heat. Slowly add dry instant c...",
+      "image": "https://www.thecocktaildb.com/images/media/drink/qvrrvu1472667494.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Water",
+          "measure": "2 cups"
+        },
+        {
+          "name": "Sugar",
+          "measure": "2 cups white"
+        },
+        {
+          "name": "Coffee",
+          "measure": "1/2 cup instant"
+        },
+        {
+          "name": "Vanilla",
+          "measure": "1/2"
+        },
+        {
+          "name": "Vodka",
+          "measure": "1 1/2 cup"
+        },
+        {
+          "name": "Caramel coloring",
+          "measure": ""
+        }
+      ]
+    },
+    {
+      "id": "17108",
+      "name": "Coke and Drops",
+      "category": "Soft Drink",
+      "iba": null,
+      "alcoholic": "Non alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Take a glass, pour the Coke in the glass, then you take 7 drops of lemon jui...",
+      "image": "https://www.thecocktaildb.com/images/media/drink/yrtxxp1472719367.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Coca-Cola",
+          "measure": "1 dl"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "7 drops"
+        }
+      ]
+    },
+    {
+      "id": "17830",
+      "name": "Corn n Oil",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Old-fashioned glass",
+      "instructions": "Cut the half lime in half again. Add the lime, falernum, and bitters to a roc...",
+      "image": "https://www.thecocktaildb.com/images/media/drink/pk6dwi1592767243.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Lime",
+          "measure": "1/2"
+        },
+        {
+          "name": "Falernum",
+          "measure": "1/3 oz"
+        },
+        {
+          "name": "Angostura Bitters",
+          "measure": "2 dashes"
+        },
+        {
+          "name": "Añejo rum",
+          "measure": "1 oz"
+        },
+        {
+          "name": "blackstrap rum",
+          "measure": "1 oz"
+        }
+      ]
+    },
+    {
+      "id": "17250",
+      "name": "Corpse Reviver",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Shake, strain, straight up, cocktail glass rinsed with absinthe",
+      "image": "https://www.thecocktaildb.com/images/media/drink/gifgao1513704334.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Gin",
+          "measure": "3/4 oz"
+        },
+        {
+          "name": "Triple sec",
+          "measure": "3/4 oz"
+        },
+        {
+          "name": "Lillet Blanc",
+          "measure": "3/4 oz"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "3/4 oz"
+        },
+        {
+          "name": "Absinthe",
+          "measure": "1 dash"
+        }
+      ]
+    },
+    {
+      "id": "17196",
+      "name": "Cosmopolitan",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Add all ingredients into cocktail shaker filled with ice. Shake well and doub...",
+      "image": "https://www.thecocktaildb.com/images/media/drink/kpsajh1504368362.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Vodka",
+          "measure": "1 1/4 oz"
+        },
+        {
+          "name": "Lime juice",
+          "measure": "1/4 oz"
+        },
+        {
+          "name": "Cointreau",
+          "measure": "1/4 oz"
+        },
+        {
+          "name": "Cranberry juice",
+          "measure": "1/4 cup"
+        }
+      ]
+    },
+    {
+      "id": "12890",
+      "name": "Cranberry Punch",
+      "category": "Punch / Party Drink",
+      "iba": null,
+      "alcoholic": "Non alcoholic",
+      "glass": "Punch Bowl",
+      "instructions": "Combine first four ingredients. Stir until sugar is dissolved, chill. Then ad...",
+      "image": "https://www.thecocktaildb.com/images/media/drink/mzgaqu1504389248.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Cranberry juice",
+          "measure": "4 cups"
+        },
+        {
+          "name": "Sugar",
+          "measure": "1 1/2 cup"
+        },
+        {
+          "name": "Pineapple juice",
+          "measure": "4 cups"
+        },
+        {
+          "name": "Almond flavoring",
+          "measure": "1 tblsp"
+        },
+        {
+          "name": "Ginger ale",
+          "measure": "2 qt"
+        }
+      ]
+    },
+    {
+      "id": "14608",
+      "name": "Cream Soda",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Highball glass",
+      "instructions": "Pour 1oz of Spiced Rum into a highball glass with ice. Fill with Ginger Ale.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/yqstxr1479209367.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Spiced rum",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Ginger ale",
+          "measure": ""
+        }
+      ]
+    },
+    {
+      "id": "13751",
+      "name": "Cuba Libra",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Highball glass",
+      "instructions": "Fill tall glass with ice cubes. Add rum. Rub cut edge of lime on rim of glas...",
+      "image": "https://www.thecocktaildb.com/images/media/drink/ck6d0p1504388696.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Dark rum",
+          "measure": "1-2 shot"
+        },
+        {
+          "name": "Lime",
+          "measure": "Squeeze"
+        },
+        {
+          "name": "Coca-Cola",
+          "measure": "Fill with"
+        },
+        {
+          "name": "Ice",
+          "measure": ""
+        }
+      ]
+    },
+    {
+      "id": "11288",
+      "name": "Cuba Libre",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Highball glass",
+      "instructions": "Build all ingredients in a Collins glass filled with ice. Garnish with lime w...",
+      "image": "https://www.thecocktaildb.com/images/media/drink/wmkbfj1606853905.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Light rum",
+          "measure": "2 oz"
+        },
+        {
+          "name": "Lime",
+          "measure": "Juice of 1/2"
+        },
+        {
+          "name": "Coca-Cola",
+          "measure": ""
+        }
+      ]
+    },
+    {
+      "id": "11006",
+      "name": "Daiquiri",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Pour all ingredients into shaker with ice cubes. Shake well. Strain in...",
+      "image": "https://www.thecocktaildb.com/images/media/drink/mrz9091589574515.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Light rum",
+          "measure": "1 1/2 oz"
+        },
+        {
+          "name": "Lime",
+          "measure": "Juice of 1/2"
+        },
+        {
+          "name": "Powdered sugar",
+          "measure": "1 tsp"
+        }
+      ]
+    },
+    {
+      "id": "13194",
+      "name": "Damned if you do",
+      "category": "Shot",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Shot glass",
+      "instructions": "Pour into shot glass. Put in mouth. Repeat as deemed necessary.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/ql7bmx1503565106.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Whiskey",
+          "measure": "0.75 oz"
+        },
+        {
+          "name": "Hot Damn",
+          "measure": "0.25 oz"
+        }
+      ]
+    },
+    {
+      "id": "15409",
+      "name": "Danbooka",
+      "category": "Coffee / Tea",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Coffee Mug",
+      "instructions": "pour it in and mix it.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/vurrxr1441246074.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Coffee",
+          "measure": "3 parts"
+        },
+        {
+          "name": "Everclear",
+          "measure": "1 part"
+        }
+      ]
+    },
+    {
+      "id": "17211",
+      "name": "Dark and Stormy",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Highball glass",
+      "instructions": "In a highball glass filled with ice add 6cl dark rum and top with ginge...",
+      "image": "https://www.thecocktaildb.com/images/media/drink/t1tn0s1504374905.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Dark rum",
+          "measure": "5 cl"
+        },
+        {
+          "name": "Ginger Beer",
+          "measure": "10 cl"
+        }
+      ]
+    },
+    {
+      "id": "17177",
+      "name": "Dark Caipirinha",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Highball glass",
+      "instructions": "Muddle the sugar into the lime wedges in an old-fashioned glass. Fill ...",
+      "image": "https://www.thecocktaildb.com/images/media/drink/uwstrx1472406058.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "demerara Sugar",
+          "measure": "2 tsp"
+        },
+        {
+          "name": "Lime",
+          "measure": "1"
+        },
+        {
+          "name": "Cachaca",
+          "measure": "2 1/2 oz"
+        }
+      ]
+    },
+    {
+      "id": "14482",
+      "name": "Darkwood Sling",
+      "category": "Soft Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "There are many good cherry liqueurs you can use, but I prefere Heering....",
+      "image": "https://www.thecocktaildb.com/images/media/drink/sxxsyq1472719303.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Cherry Heering",
+          "measure": "1 part"
+        },
+        {
+          "name": "Soda water",
+          "measure": "1 part"
+        },
+        {
+          "name": "Orange juice",
+          "measure": "1 part"
+        },
+        {
+          "name": "Ice",
+          "measure": "cubes"
+        }
+      ]
+    },
+    {
+      "id": "178334",
+      "name": "Death in the Afternoon",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Margarita glass",
+      "instructions": "Easy as you like, pour the absinthe into a chilled glass, top with cha...",
+      "image": "https://www.thecocktaildb.com/images/media/drink/y7s3rh1598719574.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Absinthe",
+          "measure": "2 shots"
+        },
+        {
+          "name": "Champagne",
+          "measure": "Top"
+        }
+      ]
+    },
+    {
+      "id": "17187",
+      "name": "Derby",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Pour all ingredients into a mixing glass with ice. Stir. Strain into a c...",
+      "image": "https://www.thecocktaildb.com/images/media/drink/52weey1606772672.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Gin",
+          "measure": "6 cl"
+        },
+        {
+          "name": "Peach Bitters",
+          "measure": "2 dashes"
+        },
+        {
+          "name": "Mint",
+          "measure": "2 Fresh leaves"
+        }
+      ]
+    },
+    {
+      "id": "13128",
+      "name": "Diesel",
+      "category": "Beer",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Pint glass",
+      "instructions": "Pour the lager first then add the blackcurrant cordial. Top up with the...",
+      "image": "https://www.thecocktaildb.com/images/media/drink/sxrrqq1454512852.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Lager",
+          "measure": "1/2 pint"
+        },
+        {
+          "name": "Cider",
+          "measure": "1/2 pint"
+        },
+        {
+          "name": "Blackcurrant cordial",
+          "measure": "1 dash"
+        }
+      ]
+    },
+    {
+      "id": "17181",
+      "name": "Dirty Martini",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Pour the vodka, dry vermouth and olive brine into a cocktail shaker with...",
+      "image": "https://www.thecocktaildb.com/images/media/drink/vcyvpq1485083300.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Vodka",
+          "measure": "70ml/2fl oz"
+        },
+        {
+          "name": "Dry Vermouth",
+          "measure": "1 tbsp"
+        },
+        {
+          "name": "Olive Brine",
+          "measure": "2 tbsp"
+        },
+        {
+          "name": "Lemon",
+          "measure": "1 wedge"
+        },
+        {
+          "name": "Olive",
+          "measure": "1"
+        }
+      ]
+    },
+    {
+      "id": "14466",
+      "name": "Dirty Nipple",
+      "category": "Shot",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Shot glass",
+      "instructions": "This is a layered shot - the Bailey's must be on top",
+      "image": "https://www.thecocktaildb.com/images/media/drink/vtyqrt1461866508.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Kahlua",
+          "measure": ""
+        },
+        {
+          "name": "Sambuca",
+          "measure": ""
+        },
+        {
+          "name": "Baileys irish cream",
+          "measure": ""
+        }
+      ]
+    },
+    {
+      "id": "16991",
+      "name": "Downshift",
+      "category": "Punch / Party Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Hurricane glass",
+      "instructions": "Start with the Sprite. Next comes the tequila. After that, add the Minut...",
+      "image": "https://www.thecocktaildb.com/images/media/drink/y36z8c1503563911.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Fruit punch",
+          "measure": "2 part"
+        },
+        {
+          "name": "Sprite",
+          "measure": "1 part"
+        },
+        {
+          "name": "Tequila",
+          "measure": "2 shots"
+        },
+        {
+          "name": "151 proof rum",
+          "measure": "Float Bacardi"
+        }
+      ]
+    },
+    {
+      "id": "11320",
+      "name": "Dragonfly",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Highball glass",
+      "instructions": "In a highball glass almost filled with ice cubes, combine the gin and g...",
+      "image": "https://www.thecocktaildb.com/images/media/drink/uc63bh1582483589.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Gin",
+          "measure": "1 1/2 oz"
+        },
+        {
+          "name": "Ginger ale",
+          "measure": "4 oz"
+        },
+        {
+          "name": "Lime",
+          "measure": "1"
+        }
+      ]
+    },
+    {
+      "id": "12736",
+      "name": "Drinking Chocolate",
+      "category": "Cocoa",
+      "iba": null,
+      "alcoholic": "Non alcoholic",
+      "glass": "Coffee mug",
+      "instructions": "Heat the cream and milk with the cinnamon and vanilla bean very slowly ...",
+      "image": "https://www.thecocktaildb.com/images/media/drink/u6jrdf1487603173.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Heavy cream",
+          "measure": "2 oz"
+        },
+        {
+          "name": "Milk",
+          "measure": "6-8 oz"
+        },
+        {
+          "name": "Cinnamon",
+          "measure": "1 stick"
+        },
+        {
+          "name": "Vanilla",
+          "measure": "1"
+        },
+        {
+          "name": "Chocolate",
+          "measure": "2 oz finely chopped dark"
+        },
+        {
+          "name": "Whipped cream",
+          "measure": "Fresh"
+        }
+      ]
+    },
+    {
+      "id": "11005",
+      "name": "Dry Martini",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Straight: Pour all ingredients into mixing glass with ice cubes. Stir we...",
+      "image": "https://www.thecocktaildb.com/images/media/drink/6ck9yi1589574317.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Gin",
+          "measure": "1 2/3 oz"
+        },
+        {
+          "name": "Dry Vermouth",
+          "measure": "1/3 oz"
+        },
+        {
+          "name": "Olive",
+          "measure": "1"
+        }
+      ]
+    },
+    {
+      "id": "11324",
+      "name": "Dry Rob Roy",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "In a mixing glass half-filled with ice cubes, combine the Scotch and ve...",
+      "image": "https://www.thecocktaildb.com/images/media/drink/typuyq1439456976.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Scotch",
+          "measure": "2 1/2 oz"
+        },
+        {
+          "name": "Dry Vermouth",
+          "measure": "1 1/2 tsp"
+        },
+        {
+          "name": "Lemon peel",
+          "measure": "1 twist of"
+        }
+      ]
+    },
+    {
+      "id": "11326",
+      "name": "Dubonnet Cocktail",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Stir all ingredients (except lemon peel) with ice and strain into a cock...",
+      "image": "https://www.thecocktaildb.com/images/media/drink/pfz3hz1582483111.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Dubonnet Rouge",
+          "measure": "1 1/2 oz"
+        },
+        {
+          "name": "Gin",
+          "measure": "3/4 oz"
+        },
+        {
+          "name": "Bitters",
+          "measure": "1 dash"
+        },
+        {
+          "name": "Lemon peel",
+          "measure": "1 twist of"
+        }
+      ]
+    },
+    {
+      "id": "17182",
+      "name": "Duchamp's Punch",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Old-fashioned glass",
+      "instructions": "Shake all ingredients. Double strain in a chilled double old fashione...",
+      "image": "https://www.thecocktaildb.com/images/media/drink/g51naw1485084685.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Pisco",
+          "measure": "5 cl"
+        },
+        {
+          "name": "Lime juice",
+          "measure": "2.5 cl"
+        },
+        {
+          "name": "Pineapple Syrup",
+          "measure": "2.5 cl"
+        },
+        {
+          "name": "St. Germain",
+          "measure": "1.5 cl"
+        },
+        {
+          "name": "Angostura Bitters",
+          "measure": "2 Dashes"
+        },
+        {
+          "name": "Pepper",
+          "measure": "Pinch"
+        },
+        {
+          "name": "Lavender",
+          "measure": "2 sprigs"
+        }
+      ]
+    },
+    {
+      "id": "12668",
+      "name": "Egg Cream",
+      "category": "Other / Unknown",
+      "iba": null,
+      "alcoholic": "Non alcoholic",
+      "glass": "Coffee mug",
+      "instructions": "Mix syrup and milk in a fountain glass. Add soda water, serve with a straw.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/mvis731484430445.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Chocolate syrup",
+          "measure": "2 tblsp"
+        },
+        {
+          "name": "Milk",
+          "measure": "6 oz whole"
+        },
+        {
+          "name": "Soda water",
+          "measure": "6 oz"
+        }
+      ]
+    },
+    {
+      "id": "12910",
+      "name": "Egg Nog #4",
+      "category": "Punch / Party Drink",
+      "iba": null,
+      "alcoholic": "Optional alcohol",
+      "glass": "Punch bowl",
+      "instructions": "In a small mixer bowl beat egg yolks till blended. Gradually add 1/4 cup sugar, b",
+      "image": "https://www.thecocktaildb.com/images/media/drink/wpspsy1468875747.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Egg yolk",
+          "measure": "6"
+        },
+        {
+          "name": "Sugar",
+          "measure": "1/4 cup"
+        },
+        {
+          "name": "Milk",
+          "measure": "2 cups"
+        },
+        {
+          "name": "Light rum",
+          "measure": "1/2 cup"
+        },
+        {
+          "name": "Bourbon",
+          "measure": "1/2 cup"
+        },
+        {
+          "name": "Vanilla extract",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Salt",
+          "measure": "1/4 tsp"
+        },
+        {
+          "name": "Whipping cream",
+          "measure": "1 cup"
+        },
+        {
+          "name": "Egg white",
+          "measure": "6"
+        },
+        {
+          "name": "Nutmeg",
+          "measure": "Ground"
+        }
+      ]
+    },
+    {
+      "id": "178346",
+      "name": "Elderflower Caipirinha",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Collins glass",
+      "instructions": "Take the glass and muddle the lime in it. Fill the glass with crushed ice and ad",
+      "image": "https://www.thecocktaildb.com/images/media/drink/dif7a31614006331.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Cachaca",
+          "measure": "60 ml"
+        },
+        {
+          "name": "Lime",
+          "measure": "1"
+        },
+        {
+          "name": "Elderflower cordial",
+          "measure": "3 cl"
+        }
+      ]
+    },
+    {
+      "id": "17246",
+      "name": "Empellón Cocina's Fat-Washed Mezcal",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Beer Glass",
+      "instructions": "To ensure that your pork fat is just as delicious as theirs, here's their adobo",
+      "image": "https://www.thecocktaildb.com/images/media/drink/osgvxt1513595509.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Mezcal",
+          "measure": "2 oz"
+        },
+        {
+          "name": "Chocolate liqueur",
+          "measure": "3/4 oz"
+        },
+        {
+          "name": "Coffee liqueur",
+          "measure": "1/2 oz"
+        }
+      ]
+    },
+    {
+      "id": "11338",
+      "name": "English Highball",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Highball glass",
+      "instructions": "Pour brandy, gin, and sweet vermouth into a highball glass over ice cubes. Fill",
+      "image": "https://www.thecocktaildb.com/images/media/drink/dhvr7d1504519752.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Brandy",
+          "measure": "3/4 oz"
+        },
+        {
+          "name": "Gin",
+          "measure": "3/4 oz"
+        },
+        {
+          "name": "Sweet Vermouth",
+          "measure": "3/4 oz"
+        },
+        {
+          "name": "Carbonated water",
+          "measure": ""
+        },
+        {
+          "name": "Lemon peel",
+          "measure": ""
+        }
+      ]
+    },
+    {
+      "id": "11339",
+      "name": "English Rose Cocktail",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Rub rim of cocktail glass with lemon juice and dip rim of glass in powdered su",
+      "image": "https://www.thecocktaildb.com/images/media/drink/yxwrpp1441208697.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Apricot brandy",
+          "measure": "3/4 oz"
+        },
+        {
+          "name": "Gin",
+          "measure": "1 1/2 oz"
+        },
+        {
+          "name": "Dry Vermouth",
+          "measure": "3/4 oz"
+        },
+        {
+          "name": "Grenadine",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "1/4 tsp"
+        },
+        {
+          "name": "Cherry",
+          "measure": "1"
+        }
+      ]
+    },
+    {
+      "id": "17212",
+      "name": "Espresso Martini",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Pour ingredients into shaker filled with ice, shake vigorously, and strain into",
+      "image": "https://www.thecocktaildb.com/images/media/drink/n0sx531504372951.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Vodka",
+          "measure": "5 cl"
+        },
+        {
+          "name": "Kahlua",
+          "measure": "1 cl"
+        },
+        {
+          "name": "Sugar syrup",
+          "measure": "1 dash"
+        }
+      ]
+    },
+    {
+      "id": "178309",
+      "name": "Espresso Rumtini",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Mix together in a cocktail glass. Garnish with some choclate powder and coffee",
+      "image": "https://www.thecocktaildb.com/images/media/drink/acvf171561574403.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Rum",
+          "measure": "1 shot"
+        },
+        {
+          "name": "Vanilla syrup",
+          "measure": "1/2 shot"
+        },
+        {
+          "name": "Espresso",
+          "measure": "1 shot"
+        },
+        {
+          "name": "Coffee",
+          "measure": "1 shot"
+        }
+      ]
+    },
+    {
+      "id": "13070",
+      "name": "Fahrenheit 5000",
+      "category": "Shot",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Shot glass",
+      "instructions": "Cover bottom of shot glass with Tabasco Sauce and then fill with half Firewater and half Absolut Peppar",
+      "image": "https://www.thecocktaildb.com/images/media/drink/tysssx1473344692.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Firewater",
+          "measure": "1/2 oz"
+        },
+        {
+          "name": "Absolut Peppar",
+          "measure": "1/2 oz"
+        },
+        {
+          "name": "Tabasco sauce",
+          "measure": "1 dash"
+        }
+      ]
+    },
+    {
+      "id": "178344",
+      "name": "Figgy Thyme",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Highball glass",
+      "instructions": "In a lewis bag, crush up some ice. Pour your precious ice into a collins glass.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/pbw4e51606766578.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Vodka",
+          "measure": "2 oz"
+        },
+        {
+          "name": "Honey",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Figs",
+          "measure": "3"
+        },
+        {
+          "name": "Thyme",
+          "measure": "1 Sprig"
+        },
+        {
+          "name": "Angostura Bitters",
+          "measure": "2 dashes"
+        },
+        {
+          "name": "Tonic water",
+          "measure": "Top"
+        }
+      ]
+    },
+    {
+      "id": "13202",
+      "name": "Flaming Dr. Pepper",
+      "category": "Shot",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Collins Glass",
+      "instructions": "Add Amaretto, Bacardi, and vodka. Mix in the Dr. Pepper and beer",
+      "image": "https://www.thecocktaildb.com/images/media/drink/d30z931503565384.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Amaretto",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Vodka",
+          "measure": "1 oz"
+        },
+        {
+          "name": "151 proof rum",
+          "measure": "1 oz Bacardi"
+        },
+        {
+          "name": "Dr. Pepper",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Beer",
+          "measure": "1 oz"
+        }
+      ]
+    },
+    {
+      "id": "16485",
+      "name": "Flaming Lamborghini",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Pour the Sambuca and Kahlua into the Cocktail Glass and give the drinker a straw.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/yywpss1461866587.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Kahlua",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Sambuca",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Blue Curacao",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Baileys irish cream",
+          "measure": "1 oz"
+        }
+      ]
+    },
+    {
+      "id": "13675",
+      "name": "Flander's Flake-Out",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Collins Glass",
+      "instructions": "Bang 'em both in.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/sqvqrx1461866705.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Sambuca",
+          "measure": "1/4 glass"
+        },
+        {
+          "name": "Sarsaparilla",
+          "measure": "3/4 glass"
+        }
+      ]
+    },
+    {
+      "id": "11368",
+      "name": "Flying Dutchman",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Old-fashioned glass",
+      "instructions": "In an old-fashioned glass almost filled with ice cubes, combine the gin and triple sec. Stir well.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/mwko4q1582482903.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Gin",
+          "measure": "2 oz"
+        },
+        {
+          "name": "Triple sec",
+          "measure": "1/2 oz"
+        }
+      ]
+    },
+    {
+      "id": "11369",
+      "name": "Flying Scotchman",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Shake all ingredients with ice, strain into a cocktail glass, and serve.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/q53l911582482518.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Scotch",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Sweet Vermouth",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Bitters",
+          "measure": "1 dash"
+        },
+        {
+          "name": "Sugar syrup",
+          "measure": "1/4 tsp"
+        }
+      ]
+    },
+    {
+      "id": "11375",
+      "name": "Foxy Lady",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/r9cz3q1504519844.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Amaretto",
+          "measure": "1/2 oz"
+        },
+        {
+          "name": "Creme de Cacao",
+          "measure": "1/2 oz"
+        },
+        {
+          "name": "Light cream",
+          "measure": "2 oz"
+        }
+      ]
+    },
+    {
+      "id": "12768",
+      "name": "Frappé",
+      "category": "Coffee / Tea",
+      "iba": null,
+      "alcoholic": "Non alcoholic",
+      "glass": "Highball Glass",
+      "instructions": "Mix together. Blend at highest blender speed for about 1 minute. Pour into a glass and drink with a straw.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/vqwryq1441245927.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Coffee",
+          "measure": "1/2 cup black"
+        },
+        {
+          "name": "Milk",
+          "measure": "1/2 cup"
+        },
+        {
+          "name": "Sugar",
+          "measure": "1-2 tsp"
+        }
+      ]
+    },
+    {
+      "id": "14688",
+      "name": "Freddy Kruger",
+      "category": "Shot",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Shot glass",
+      "instructions": "make it an ample size shot!!",
+      "image": "https://www.thecocktaildb.com/images/media/drink/tuppuq1461866798.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Jägermeister",
+          "measure": "1/2 oz"
+        },
+        {
+          "name": "Sambuca",
+          "measure": "1/2 oz"
+        },
+        {
+          "name": "Vodka",
+          "measure": "1/2 oz"
+        }
+      ]
+    },
+    {
+      "id": "17197",
+      "name": "French 75",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Collins glass",
+      "instructions": "Combine gin, sugar, and lemon juice in a cocktail shaker filled with ice. Shake vigorously and strain into a chilled champagne glass.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/hrxfbl1606773109.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Gin",
+          "measure": "1 1/2 oz"
+        },
+        {
+          "name": "Sugar",
+          "measure": "2 tsp superfine"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "1 1/2 oz"
+        },
+        {
+          "name": "Champagne",
+          "measure": "4 oz Chilled"
+        },
+        {
+          "name": "Orange",
+          "measure": "1"
+        },
+        {
+          "name": "Maraschino cherry",
+          "measure": "1"
+        }
+      ]
+    },
+    {
+      "id": "17198",
+      "name": "French Connection",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Old-fashioned glass",
+      "instructions": "Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/zaqa381504368758.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Cognac",
+          "measure": "1 1/2 oz"
+        },
+        {
+          "name": "Amaretto",
+          "measure": "3/4 oz"
+        }
+      ]
+    },
+    {
+      "id": "17213",
+      "name": "French Martini",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Pour all ingredients into shaker with ice cubes. Shake well and strain into a chilled cocktail glass.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/clth721504373134.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Vodka",
+          "measure": "4.5 cl"
+        },
+        {
+          "name": "Raspberry Liqueur",
+          "measure": "1.5 cl"
+        },
+        {
+          "name": "Pineapple juice",
+          "measure": "1.5 cl"
+        }
+      ]
+    },
+    {
+      "id": "17248",
+      "name": "French Negroni",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Martini Glass",
+      "instructions": "Add ice to a shaker and pour in all ingredients. Using a bar spoon, stir 40 to 45 revolutions or until",
+      "image": "https://www.thecocktaildb.com/images/media/drink/x8lhp41513703167.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Gin",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Lillet",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Sweet Vermouth",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Orange peel",
+          "measure": "1"
+        }
+      ]
+    },
+    {
+      "id": "11382",
+      "name": "Frisco Sour",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Whiskey sour glass",
+      "instructions": "Shake all ingredients (except slices of lemon and lime) with ice and strain into a whiskey sour glass.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/acuvjz1582482022.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Blended whiskey",
+          "measure": "2 oz"
+        },
+        {
+          "name": "Benedictine",
+          "measure": "1/2 oz"
+        },
+        {
+          "name": "Lemon",
+          "measure": "Juice of 1/4"
+        },
+        {
+          "name": "Lime",
+          "measure": "Juice of 1/2"
+        }
+      ]
+    },
+    {
+      "id": "178352",
+      "name": "Frosé",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Pour rosé into a pan and freeze until almost solid, at least 6 hours.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/b4cadp1619695347.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Rose",
+          "measure": "750 ml"
+        },
+        {
+          "name": "Sugar",
+          "measure": "1/2 cup"
+        },
+        {
+          "name": "Strawberries",
+          "measure": "8 oz"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "2-3 oz"
+        }
+      ]
+    },
+    {
+      "id": "11387",
+      "name": "Frozen Daiquiri",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Champagne flute",
+      "instructions": "Combine all ingredients (except for the cherry) in an electric blender and blend at a low speed for five",
+      "image": "https://www.thecocktaildb.com/images/media/drink/7oyrj91504884412.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Light rum",
+          "measure": "1 1/2 oz"
+        },
+        {
+          "name": "Triple sec",
+          "measure": "1 tblsp"
+        },
+        {
+          "name": "Lime juice",
+          "measure": "1 1/2 oz"
+        },
+        {
+          "name": "Sugar",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Cherry",
+          "measure": "1"
+        },
+        {
+          "name": "Ice",
+          "measure": "1 cup crushed"
+        }
+      ]
+    },
+    {
+      "id": "11390",
+      "name": "Frozen Mint Daiquiri",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Old-fashioned glass",
+      "instructions": "Combine all ingredients with 1 cup of crushed ice in an electric blender. Blend at a low speed for a short time.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/jrhn1q1504884469.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Light rum",
+          "measure": "2 oz"
+        },
+        {
+          "name": "Lime juice",
+          "measure": "1 tblsp"
+        },
+        {
+          "name": "Mint",
+          "measure": "6"
+        },
+        {
+          "name": "Sugar",
+          "measure": "1 tsp"
+        }
+      ]
+    },
+    {
+      "id": "11391",
+      "name": "Frozen Pineapple Daiquiri",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail Glass",
+      "instructions": "Combine all ingredients with 1 cup of crushed ice in an electric blender. Blend at a low speed for a short time.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/k3aecd1582481679.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Light rum",
+          "measure": "1 1/2 oz"
+        },
+        {
+          "name": "Pineapple",
+          "measure": "4 chunks"
+        },
+        {
+          "name": "Lime juice",
+          "measure": "1 tblsp"
+        },
+        {
+          "name": "Sugar",
+          "measure": "1/2 tsp"
+        }
+      ]
+    },
+    {
+      "id": "12670",
+      "name": "Fruit Cooler",
+      "category": "Other / Unknown",
+      "iba": null,
+      "alcoholic": "Non alcoholic",
+      "glass": "Highball Glass",
+      "instructions": "Toss strawberries with sugar, and let sit overnight in refrigerator. Cut lemon, reserve two slices.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/i3tfn31484430499.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Apple juice",
+          "measure": "1 can frozen"
+        },
+        {
+          "name": "Strawberries",
+          "measure": "1 cup"
+        },
+        {
+          "name": "Sugar",
+          "measure": "2 tblsp"
+        },
+        {
+          "name": "Lemon",
+          "measure": "1"
+        },
+        {
+          "name": "Apple",
+          "measure": "1"
+        },
+        {
+          "name": "Soda water",
+          "measure": "1 L"
+        }
+      ]
+    },
+    {
+      "id": "12672",
+      "name": "Fruit Flip-Flop",
+      "category": "Other / Unknown",
+      "iba": null,
+      "alcoholic": "Non alcoholic",
+      "glass": "Highball Glass",
+      "instructions": "Place all ingredients in the blender jar - cover and whiz on medium speed until well blended.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/nfdx6p1484430633.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Yoghurt",
+          "measure": "1 cup"
+        },
+        {
+          "name": "Fruit juice",
+          "measure": "1 cup"
+        }
+      ]
+    },
+    {
+      "id": "12674",
+      "name": "Fruit Shake",
+      "category": "Other / Unknown",
+      "iba": null,
+      "alcoholic": "Non alcoholic",
+      "glass": "Highball Glass",
+      "instructions": "Blend til smooth.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/q0fg2m1484430704.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Yoghurt",
+          "measure": "1 cup fruit"
+        },
+        {
+          "name": "Banana",
+          "measure": "1"
+        },
+        {
+          "name": "Orange juice",
+          "measure": "4 oz frozen"
+        },
+        {
+          "name": "Fruit",
+          "measure": "1/2 piece textural"
+        },
+        {
+          "name": "Ice",
+          "measure": "6"
+        }
+      ]
+    },
+    {
+      "id": "178328",
+      "name": "Funk and Soul",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Collins glass",
+      "instructions": "Mix all ingredients together and strain into a Collins glass. Use Jamaican rum where possible.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/qtv83q1596015790.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Rum",
+          "measure": "2 shots"
+        },
+        {
+          "name": "Apricot Nectar",
+          "measure": "1 shot"
+        },
+        {
+          "name": "Pomegranate juice",
+          "measure": "1 shot"
+        },
+        {
+          "name": "Lemon",
+          "measure": "Juice of 1/2"
+        },
+        {
+          "name": "Soda water",
+          "measure": "Top"
+        }
+      ]
+    },
+    {
+      "id": "15743",
+      "name": "Fuzzy Asshole",
+      "category": "Coffee / Tea",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Coffee mug",
+      "instructions": "Fill coffee mug half full of coffee. Fill the other half full of Peach Schnapps. Stir and drink while hot.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/wrvpuu1472667898.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Coffee",
+          "measure": "1/2"
+        },
+        {
+          "name": "Peach schnapps",
+          "measure": "1/2"
+        }
+      ]
+    },
+    {
+      "id": "11690",
+      "name": "Mai Tai",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Collins glass",
+      "instructions": "Shake all ingredients with ice. Strain into glass. Garnish and serve with straw.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/twyrrp1439907470.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Light rum",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Orgeat syrup",
+          "measure": "1/2 oz"
+        },
+        {
+          "name": "Triple sec",
+          "measure": "1/2 oz"
+        },
+        {
+          "name": "Sweet and sour",
+          "measure": "1 1/2 oz"
+        },
+        {
+          "name": "Cherry",
+          "measure": "1"
+        }
+      ]
+    },
+    {
+      "id": "178358",
+      "name": "Mango Mojito",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Jar",
+      "instructions": "Squeeze the juice from limes and blend with the mango to give a smooth purée.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/wfqmgm1630406820.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Lime",
+          "measure": "3"
+        },
+        {
+          "name": "Mango",
+          "measure": "1 Fresh"
+        },
+        {
+          "name": "Mint",
+          "measure": "Sprig"
+        },
+        {
+          "name": "White rum",
+          "measure": "200 ml"
+        },
+        {
+          "name": "Ice",
+          "measure": "cubes"
+        },
+        {
+          "name": "Soda water",
+          "measure": "Top"
+        }
+      ]
+    },
+    {
+      "id": "11008",
+      "name": "Manhattan",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Stirred over ice, strained into a chilled glass, garnished, and served up.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/yk70e31606771240.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Sweet Vermouth",
+          "measure": "3/4 oz"
+        },
+        {
+          "name": "Bourbon",
+          "measure": "2 1/2 oz Blended"
+        },
+        {
+          "name": "Angostura Bitters",
+          "measure": "dash"
+        },
+        {
+          "name": "Maraschino cherry",
+          "measure": "1"
+        },
+        {
+          "name": "Orange peel",
+          "measure": "1 twist of"
+        }
+      ]
+    },
+    {
+      "id": "11007",
+      "name": "Margarita",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Rub the rim of the glass with the lime slice to make the salt stick to it. Take care",
+      "image": "https://www.thecocktaildb.com/images/media/drink/5noda61589575158.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Tequila",
+          "measure": "1 1/2 oz"
+        },
+        {
+          "name": "Triple sec",
+          "measure": "1/2 oz"
+        },
+        {
+          "name": "Lime juice",
+          "measure": "1 oz"
+        },
+        {
+          "name": "Salt",
+          "measure": ""
+        }
+      ]
+    },
+    {
+      "id": "17256",
+      "name": "Martinez 2",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Add all ingredients to a mixing glass and fill with ice. Stir until chilled, and stra",
+      "image": "https://www.thecocktaildb.com/images/media/drink/fs6kiq1513708455.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Gin",
+          "measure": "1 1/2 oz"
+        },
+        {
+          "name": "Sweet Vermouth",
+          "measure": "1 1/2 oz"
+        },
+        {
+          "name": "Maraschino liqueur",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Angostura Bitters",
+          "measure": "2 dashes"
+        }
+      ]
+    },
+    {
+      "id": "11728",
+      "name": "Martini",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Cocktail glass",
+      "instructions": "Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in c",
+      "image": "https://www.thecocktaildb.com/images/media/drink/71t8581504353095.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Gin",
+          "measure": "1 2/3 oz"
+        },
+        {
+          "name": "Dry Vermouth",
+          "measure": "1/3 oz"
+        },
+        {
+          "name": "Olive",
+          "measure": "1"
+        }
+      ]
+    },
+    {
+      "id": "12776",
+      "name": "Melya",
+      "category": "Coffee / Tea",
+      "iba": null,
+      "alcoholic": "Non alcoholic",
+      "glass": "Coffee mug",
+      "instructions": "Brew espresso. In a coffee mug, place 1 teaspoon of unsweetened powdered cocoa, then cover.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/xwtptq1441247579.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Espresso",
+          "measure": ""
+        },
+        {
+          "name": "Honey",
+          "measure": "Unsweetened"
+        },
+        {
+          "name": "Cocoa powder",
+          "measure": ""
+        }
+      ]
+    },
+    {
+      "id": "178343",
+      "name": "Michelada",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Pint glass",
+      "instructions": "Mix the beer with tomato juice, freshly squeezed lime juice, and Worcestershire sauce",
+      "image": "https://www.thecocktaildb.com/images/media/drink/u736bd1605907086.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Beer",
+          "measure": "4 oz"
+        },
+        {
+          "name": "Tomato Juice",
+          "measure": "4 oz"
+        },
+        {
+          "name": "Lime juice",
+          "measure": "1 tblsp"
+        },
+        {
+          "name": "Hot Sauce",
+          "measure": "Dash"
+        },
+        {
+          "name": "Worcestershire Sauce",
+          "measure": "Dash"
+        },
+        {
+          "name": "Soy Sauce",
+          "measure": "Dash"
+        }
+      ]
+    },
+    {
+      "id": "17205",
+      "name": "Mimosa",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Champagne flute",
+      "instructions": "Ensure both ingredients are well chilled, then mix into the glass. Serve cold.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/juhcuu1504370685.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Champagne",
+          "measure": "Chilled"
+        },
+        {
+          "name": "Orange juice",
+          "measure": "2 oz"
+        }
+      ]
+    },
+    {
+      "id": "17206",
+      "name": "Mint Julep",
+      "category": "Ordinary Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Collins glass",
+      "instructions": "In a highball glass gently muddle the mint, sugar and water. Fill the glass with crack",
+      "image": "https://www.thecocktaildb.com/images/media/drink/squyyq1439907312.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Mint",
+          "measure": "4 fresh"
+        },
+        {
+          "name": "Bourbon",
+          "measure": "2 1/2 oz"
+        },
+        {
+          "name": "Powdered sugar",
+          "measure": "1 tsp"
+        },
+        {
+          "name": "Water",
+          "measure": "2 tsp"
+        }
+      ]
+    },
+    {
+      "id": "11000",
+      "name": "Mojito",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Highball glass",
+      "instructions": "Muddle mint leaves with sugar and lime juice. Add a splash of soda water and fill",
+      "image": "https://www.thecocktaildb.com/images/media/drink/metwgh1606770327.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Light rum",
+          "measure": "2-3 oz"
+        },
+        {
+          "name": "Lime",
+          "measure": "Juice of 1"
+        },
+        {
+          "name": "Sugar",
+          "measure": "2 tsp"
+        },
+        {
+          "name": "Mint",
+          "measure": "2-4"
+        },
+        {
+          "name": "Soda water",
+          "measure": ""
+        }
+      ]
+    },
+    {
+      "id": "15841",
+      "name": "Mojito Extra",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Collins glass",
+      "instructions": "Put mint with lemon juice in a glass, mash the mint with a spoon, ice, rum & fill up.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/vwxrsw1478251483.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Mint",
+          "measure": "1/2 handful"
+        },
+        {
+          "name": "Lemon juice",
+          "measure": "3 cl"
+        },
+        {
+          "name": "Dark rum",
+          "measure": "1/8 L Jamaican"
+        },
+        {
+          "name": "Club soda",
+          "measure": "1/8 L"
+        },
+        {
+          "name": "Angostura Bitters",
+          "measure": "8 drops"
+        }
+      ]
+    },
+    {
+      "id": "11009",
+      "name": "Moscow Mule",
+      "category": "Punch / Party Drink",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Copper Mug",
+      "instructions": "Combine vodka and ginger beer in a highball glass filled with ice. Add lime juice.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/3pylqc1504370988.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Vodka",
+          "measure": "2 oz"
+        },
+        {
+          "name": "Lime juice",
+          "measure": "2 oz"
+        },
+        {
+          "name": "Ginger ale",
+          "measure": "8 oz"
+        }
+      ]
+    },
+    {
+      "id": "178315",
+      "name": "Munich Mule",
+      "category": "Cocktail",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Highball glass",
+      "instructions": "Fill glass with ice. Pour Gin and Lime Juice. Fill glass with Ginger Beer. Garnish.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/rj55pl1582476101.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Gin",
+          "measure": "5 cl"
+        },
+        {
+          "name": "Lime juice",
+          "measure": "2 cl"
+        },
+        {
+          "name": "Ginger Beer",
+          "measure": "10 cl"
+        },
+        {
+          "name": "Cucumber",
+          "measure": "Chopped"
+        },
+        {
+          "name": "Lemon",
+          "measure": "Chopped"
+        }
+      ]
+    }
+  ],
+  "ingredients_index": [
+    "151 proof rum",
+    "Absinthe",
+    "Absolut Peppar",
+    "Absolut Vodka",
+    "Almond flavoring",
+    "Amaretto",
+    "Angostura Bitters",
+    "Apple",
+    "Apple juice",
+    "Applejack",
+    "Apricot brandy",
+    "Apricot Nectar",
+    "Añejo rum",
+    "Bacardi Limon",
+    "Baileys irish cream",
+    "Banana",
+    "Banana liqueur",
+    "Beer",
+    "Benedictine",
+    "Bitters",
+    "Blackberry brandy",
+    "Blackcurrant cordial",
+    "blackstrap rum",
+    "Blended whiskey",
+    "Blue Curacao",
+    "Bourbon",
+    "Brandy",
+    "Cachaca",
+    "Campari",
+    "Caramel coloring",
+    "Carbonated water",
+    "Champagne",
+    "Cherry",
+    "Cherry brandy",
+    "Cherry Heering",
+    "Chocolate",
+    "Chocolate liqueur",
+    "Chocolate syrup",
+    "Cider",
+    "Cinnamon",
+    "Club soda",
+    "Coca-Cola",
+    "Cocoa powder",
+    "Coffee",
+    "Coffee liqueur",
+    "Cognac",
+    "Cointreau",
+    "Corona",
+    "Cranberry juice",
+    "Cream",
+    "Creme de Cacao",
+    "Creme de Mure",
+    "Crown Royal",
+    "Cucumber",
+    "Dark rum",
+    "demerara Sugar",
+    "Dr. Pepper",
+    "Dry Vermouth",
+    "Dubonnet Rouge",
+    "Egg white",
+    "Egg yolk",
+    "Elderflower cordial",
+    "Espresso",
+    "Everclear",
+    "Falernum",
+    "Figs",
+    "Firewater",
+    "Fruit",
+    "Fruit juice",
+    "Fruit punch",
+    "Galliano",
+    "Gin",
+    "Ginger ale",
+    "Ginger Beer",
+    "Goldschlager",
+    "Grand Marnier",
+    "Grapefruit juice",
+    "Green Chartreuse",
+    "Grenadine",
+    "Heavy cream",
+    "Honey",
+    "Hot Chocolate",
+    "Hot Damn",
+    "Hot Sauce",
+    "Ice",
+    "Irish cream",
+    "Jägermeister",
+    "Kahlua",
+    "Lager",
+    "Lavender",
+    "Lemon",
+    "Lemon juice",
+    "Lemon peel",
+    "Lemonade",
+    "Light cream",
+    "Light rum",
+    "Lillet",
+    "Lillet Blanc",
+    "Lime",
+    "Lime juice",
+    "Mango",
+    "Maraschino cherry",
+    "Maraschino liqueur",
+    "Mezcal",
+    "Midori melon liqueur",
+    "Milk",
+    "Mint",
+    "Mountain Dew",
+    "Nutmeg",
+    "Olive",
+    "Olive Brine",
+    "Orange",
+    "Orange bitters",
+    "Orange juice",
+    "Orange peel",
+    "Orgeat syrup",
+    "Passion fruit juice",
+    "Peach Bitters",
+    "Peach nectar",
+    "Peach schnapps",
+    "Pepper",
+    "Pineapple",
+    "Pineapple juice",
+    "Pineapple Syrup",
+    "Pisang Ambon",
+    "Pisco",
+    "Pomegranate juice",
+    "Port",
+    "Powdered sugar",
+    "Prosecco",
+    "Raspberry Liqueur",
+    "Rose",
+    "Rum",
+    "Rye Whiskey",
+    "Salt",
+    "Sambuca",
+    "Sarsaparilla",
+    "Scotch",
+    "Sloe gin",
+    "Soda water",
+    "Sour mix",
+    "Southern Comfort",
+    "Soy Sauce",
+    "Spiced rum",
+    "Sprite",
+    "St. Germain",
+    "Strawberries",
+    "Strawberry schnapps",
+    "Sugar",
+    "Sugar syrup",
+    "Surge",
+    "Sweet and sour",
+    "Sweet Vermouth",
+    "Tabasco sauce",
+    "Tequila",
+    "Thyme",
+    "Tomato Juice",
+    "Tonic water",
+    "Triple sec",
+    "Vanilla",
+    "Vanilla extract",
+    "Vanilla ice-cream",
+    "Vanilla syrup",
+    "Vermouth",
+    "Vodka",
+    "Water",
+    "Whipped cream",
+    "Whipping cream",
+    "Whiskey",
+    "White rum",
+    "Wild Turkey",
+    "Wine",
+    "Worcestershire Sauce",
+    "Wormwood",
+    "Yoghurt"
+  ],
+  "categories_index": [
+    "Beer",
+    "Cocktail",
+    "Cocoa",
+    "Coffee / Tea",
+    "Homemade Liqueur",
+    "Ordinary Drink",
+    "Other / Unknown",
+    "Punch / Party Drink",
+    "Shake",
+    "Shot",
+    "Soft Drink"
+  ],
+  "glasses_index": [
+    "Beer Glass",
+    "Beer mug",
+    "Beer pilsner",
+    "Champagne flute",
+    "Champagne Flute",
+    "Cocktail glass",
+    "Cocktail Glass",
+    "Coffee Mug",
+    "Coffee mug",
+    "Collins Glass",
+    "Collins glass",
+    "Copper Mug",
+    "Coupe Glass",
+    "Highball glass",
+    "Highball Glass",
+    "Hurricane glass",
+    "Jar",
+    "Margarita glass",
+    "Martini Glass",
+    "Old-Fashioned glass",
+    "Old-fashioned glass",
+    "Pint glass",
+    "Punch Bowl",
+    "Punch bowl",
+    "Shot Glass",
+    "Shot glass",
+    "Whiskey sour glass"
+  ],
+  "alcoholic_index": [
+    "Alcoholic",
+    "Non alcoholic",
+    "Optional alcohol"
+  ]
+}
