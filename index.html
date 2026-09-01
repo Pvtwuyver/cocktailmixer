@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cocktailrecepten</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <h1>Cocktailrecepten</h1>
+    <p class="subtitle">Zoek en filter cocktailrecepten op naam of ingrediënt</p>
+  </div>
+</header>
+
+<main class="layout">
+
+  <aside class="filters" id="filters">
+    <div class="filters-inner">
+
+      <div class="filter-group">
+        <label for="search-input">Zoeken op naam</label>
+        <input type="search" id="search-input" placeholder="Bijv. Margarita, Mojito...">
+      </div>
+
+      <div class="filter-group">
+        <label for="ingredient-search">Ingrediënten</label>
+        <input type="search" id="ingredient-search" placeholder="Zoek een ingrediënt...">
+        <div class="ingredient-mode">
+          <label class="checkbox-label">
+            <input type="checkbox" id="ingredient-mode-all">
+            Moet alle geselecteerde ingrediënten bevatten
+          </label>
+        </div>
+        <div id="ingredient-list" class="ingredient-list" aria-live="polite"></div>
+        <div id="selected-ingredients" class="selected-chips"></div>
+      </div>
+
+      <div class="filter-group">
+        <label for="category-select">Categorie</label>
+        <select id="category-select">
+          <option value="">Alle categorieën</option>
+        </select>
+      </div>
+
+      <div class="filter-group">
+        <label for="glass-select">Glaswerk</label>
+        <select id="glass-select">
+          <option value="">Alle glazen</option>
+        </select>
+      </div>
+
+      <div class="filter-group">
+        <label for="alcoholic-select">Alcohol</label>
+        <select id="alcoholic-select">
+          <option value="">Alles</option>
+        </select>
+      </div>
+
+      <button id="reset-filters" class="reset-button" type="button">Filters wissen</button>
+
+    </div>
+  </aside>
+
+  <section class="results">
+    <div class="results-header">
+      <p id="results-count" class="results-count"></p>
+      <button id="filters-toggle" class="filters-toggle" type="button" aria-expanded="false" aria-controls="filters">
+        Filters
+      </button>
+    </div>
+
+    <div id="cocktail-grid" class="cocktail-grid"></div>
+    <p id="empty-state" class="empty-state" hidden>Geen cocktails gevonden met deze filters.</p>
+    <p id="load-error" class="load-error" hidden>De cocktaildata kon niet geladen worden. Probeer de pagina te vernieuwen.</p>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <p id="last-updated"></p>
+  <p class="source-note">Databron: <a href="https://www.thecocktaildb.com/" target="_blank" rel="noopener">TheCocktailDB</a></p>
+</footer>
+
+<div id="modal-overlay" class="modal-overlay" hidden>
+  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <button id="modal-close" class="modal-close" type="button" aria-label="Sluiten">&times;</button>
+    <div id="modal-content"></div>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
