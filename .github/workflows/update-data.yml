@@ -1,0 +1,39 @@
+name: Update cocktail data
+
+on:
+  schedule:
+    - cron: "0 5 * * 1"   # elke maandag 05:00 UTC (zomertijd NL 07:00, wintertijd 06:00)
+  workflow_dispatch: {}    # handmatig draaien via het "Run workflow"-knopje
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        run: python scripts/scrape.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/cocktails.json
+          if git diff --cached --quiet; then
+            echo "Geen wijzigingen in de data."
+          else
+            git commit -m "Automatische update van cocktaildata"
+            git push
+          fi
