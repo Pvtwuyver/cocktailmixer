@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T10:26:23Z",
+  "generated_at": "2026-09-28T11:30:04Z",
   "source": "TheCocktailDB (https://www.thecocktaildb.com/)",
   "count": 426,
   "cocktails": [
@@ -743,31 +743,6 @@
       ]
     },
     {
-      "id": "15511",
-      "name": "Baby Eskimo",
-      "category": "Shake",
-      "iba": null,
-      "alcoholic": "Alcoholic",
-      "glass": "Collins Glass",
-      "instructions": "Leave ice-cream out for about 10 minutes. Add ingredients in order, stir with chopstick (butter knife or spoon works too). Consume immediately and often. Nice and light, great for following a heavy drink.",
-      "image": "https://www.thecocktaildb.com/images/media/drink/wywrtw1472720227.jpg",
-      "tags": [],
-      "ingredients": [
-        {
-          "name": "Kahlua",
-          "measure": "2 oz"
-        },
-        {
-          "name": "Milk",
-          "measure": "8 oz"
-        },
-        {
-          "name": "Vanilla ice-cream",
-          "measure": "2 scoops"
-        }
-      ]
-    },
-    {
       "id": "17267",
       "name": "Bahama Mama",
       "category": "Cocktail",
@@ -1192,6 +1167,31 @@
         {
           "name": "Egg white",
           "measure": "1"
+        }
+      ]
+    },
+    {
+      "id": "178372",
+      "name": "Boyarsky",
+      "category": "Shot",
+      "iba": null,
+      "alcoholic": "Alcoholic",
+      "glass": "Shot glass",
+      "instructions": "Pour a layer of vodka over the grenadine, then add a few drops of Tabasco sauce.",
+      "image": "https://www.thecocktaildb.com/images/media/drink/o9m9wy1790013164.jpg",
+      "tags": [],
+      "ingredients": [
+        {
+          "name": "Grenadine",
+          "measure": "1 1/2 shot"
+        },
+        {
+          "name": "Vodka",
+          "measure": "1 1/2 shot"
+        },
+        {
+          "name": "Tabasco sauce",
+          "measure": "5 drops"
         }
       ]
     },
@@ -12856,17 +12856,17 @@
     "Brandy snifter",
     "Champagne Flute",
     "Champagne flute",
-    "Cocktail glass",
     "Cocktail Glass",
-    "Coffee Mug",
+    "Cocktail glass",
     "Coffee mug",
-    "Collins Glass",
+    "Coffee Mug",
     "Collins glass",
+    "Collins Glass",
     "Copper Mug",
     "Cordial glass",
     "Coupe Glass",
-    "Highball Glass",
     "Highball glass",
+    "Highball Glass",
     "Hurricane glass",
     "Irish coffee cup",
     "Jar",
@@ -12882,8 +12882,8 @@
     "Pousse cafe glass",
     "Punch Bowl",
     "Punch bowl",
-    "Shot Glass",
     "Shot glass",
+    "Shot Glass",
     "Whiskey Glass",
     "Whiskey sour glass",
     "White wine glass",
